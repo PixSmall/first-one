@@ -7,7 +7,7 @@ public class main {
     return a * b;
   }
   
-  public static void(String[] args) {
+  public static void main(String[] args) {
     System.out.println("Hello, world");
     print("Hello, World!");
 
